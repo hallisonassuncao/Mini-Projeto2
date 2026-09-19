@@ -1,4 +1,3 @@
-# Data Science Academy
 # Mini-Projeto 2 - Aplicação Full-Stack de Sistema Bancário em Python com Programação Orientada a Objetos
 # Módulo para exceções customizadas da aplicação.
 
