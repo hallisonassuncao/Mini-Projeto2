@@ -9,7 +9,7 @@ from abc import ABC, abstractmethod
 from datetime import datetime
 
 # Importa exceção personalizada para saldo insuficiente
-from dsautilitarios.exceptions import SaldoInsuficienteError
+from Utilitarios.exceptions import SaldoInsuficienteError
 
 # Define a classe abstrata Conta, que serve como base para outros tipos de contas
 class Conta(ABC):

@@ -3,13 +3,13 @@
 # Módulo que define a classe principal do Banco, que gerencia clientes e contas.
 
 # Importa a classe Cliente
-from dsaentidades.cliente import Cliente
+from Entidades.cliente import Cliente
 
 # Importa a classe base Conta e suas subclasses (Corrente e Poupança)
-from dsaentidades.conta import Conta, ContaCorrente, ContaPoupanca
+from Entidades.conta import Conta, ContaCorrente, ContaPoupanca
 
 # Importa exceção personalizada para conta inexistente
-from dsautilitarios.exceptions import ContaInexistenteError
+from Utilitarios.exceptions import ContaInexistenteError
 
 # Define a classe Banco
 class Banco:
