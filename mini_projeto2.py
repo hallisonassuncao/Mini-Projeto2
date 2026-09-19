@@ -10,7 +10,7 @@ from Utilitarios.exceptions import SaldoInsuficienteError, ContaInexistenteError
 # Função que exibe o menu principal da aplicação
 def menu_principal():
 
-    print("\n---Mini-Projeto 2 - Sistema Bancário Digital ---\n")
+    print("\n--- Mini-Projeto 2 - Sistema Bancário Digital ---\n")
     print("1. Adicionar Cliente")
     print("2. Criar Conta")
     print("3. Acessar Conta")
