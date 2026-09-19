@@ -1,4 +1,4 @@
-# Data Science Academy
+
 # Mini-Projeto 2 - Aplicação Full-Stack de Sistema Bancário em Python com Programação Orientada a Objetos
 # Módulo que define a classe principal do Banco, que gerencia clientes e contas.
 

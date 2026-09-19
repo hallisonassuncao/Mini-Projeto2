@@ -1,4 +1,3 @@
-# Data Science Academy
 # Mini-Projeto 2 - Aplicação Full-Stack de Sistema Bancário em Python com Programação Orientada a Objetos
 # Módulo que define as classes de Conta (Abstrata, Corrente e Poupança).
 
