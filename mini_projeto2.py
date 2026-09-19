@@ -2,15 +2,15 @@
 # Módulo Principal da Aplicação
 
 # Importa a classe Banco responsável por gerenciar clientes e contas
-from dsaoperacoes.banco import Banco
+from Operacoes.banco import Banco
 
 # Importa exceções personalizadas usadas no fluxo de operações
-from dsautilitarios.exceptions import SaldoInsuficienteError, ContaInexistenteError
+from Utilitarios.exceptions import SaldoInsuficienteError, ContaInexistenteError
 
 # Função que exibe o menu principal da aplicação
 def menu_principal():
 
-    print("\n--- DSA Mini-Projeto 2 - Sistema Bancário Digital ---\n")
+    print("\n---Mini-Projeto 2 - Sistema Bancário Digital ---\n")
     print("1. Adicionar Cliente")
     print("2. Criar Conta")
     print("3. Acessar Conta")
